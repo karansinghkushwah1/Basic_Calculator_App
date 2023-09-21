@@ -18,9 +18,7 @@ This is a simple Android calculator app that allows users to perform basic mathe
 ## Screenshots
 
 <p>
-
 <img src="https://github.com/karansinghkushwah1/Basic_Calculator_App/blob/main/images/Screenshot_1695330478.png" hspace="10" width=25% height=25% style="display: inline-block;">
-
 <img src="https://github.com/karansinghkushwah1/Basic_Calculator_App/blob/main/images/Screenshot_1695330526.png" hspace="10" width=25% height=25% style="display: inline-block;">
 </p>
 
